@@ -1,0 +1,27 @@
+{
+  "name": "ComponentMainModuleCategory",
+  "version": "0.0.1",
+  "summary": "主容器插件的插件分类.",
+  "description": "主容器插件的插件分类",
+  "homepage": "https://github.com/jiaojiaozhe/ComponentMainModuleCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jiaojiaozhe": "lanbiao@zhihuihutong.com"
+  },
+  "source": {
+    "git": "https://github.com/jiaojiaozhe/ComponentMainModuleCategory.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ComponentMainModuleCategory/Classes/**/*",
+  "dependencies": {
+    "ComponentMiddleware": [
+
+    ]
+  }
+}
