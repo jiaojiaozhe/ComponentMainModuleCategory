@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ComponentMainModuleCategory'
-  s.version          = '0.0.1'
+  s.version          = '0.0.3'
   s.summary          = '主容器插件的插件分类.'
 
 # This description is used to generate tags and improve search results.
@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/jiaojiaozhe/ComponentMainModuleCategory'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'jiaojiaozhe' => 'lanbiao@zhihuihutong.com' }
+  s.author           = { 'jiaojiaozhe' => 'bluebiao@163.com' }
   s.source           = { :git => 'https://github.com/jiaojiaozhe/ComponentMainModuleCategory.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 

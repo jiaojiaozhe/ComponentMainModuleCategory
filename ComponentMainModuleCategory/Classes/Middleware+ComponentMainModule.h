@@ -5,7 +5,7 @@
 //  Created by 兰彪 on 2020/9/19.
 //
 
-#import "Middleware.h"
+#import <ComponentMiddleware/Middleware.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
