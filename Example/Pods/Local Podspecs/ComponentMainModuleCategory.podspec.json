@@ -1,6 +1,6 @@
 {
   "name": "ComponentMainModuleCategory",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "主容器插件的插件分类.",
   "description": "主容器插件的插件分类",
   "homepage": "https://github.com/jiaojiaozhe/ComponentMainModuleCategory",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/jiaojiaozhe/ComponentMainModuleCategory.git",
-    "tag": "0.0.4"
+    "tag": "0.0.5"
   },
   "platforms": {
     "ios": "9.0"
@@ -21,7 +21,7 @@
   "source_files": "ComponentMainModuleCategory/Classes/**/*",
   "dependencies": {
     "ComponentMiddleware": [
-
+      "< 1.0.0"
     ]
   }
 }
