@@ -10,7 +10,7 @@
 #endif
 #endif
 
-#import "Middleware.h"
+#import "ComponentScheduler.h"
 
 FOUNDATION_EXPORT double ComponentMiddlewareVersionNumber;
 FOUNDATION_EXPORT const unsigned char ComponentMiddlewareVersionString[];

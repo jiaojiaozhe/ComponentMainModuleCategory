@@ -1,13 +1,13 @@
 PODS:
-  - ComponentMainModuleCategory (0.0.1):
+  - ComponentMainModuleCategory (0.0.4):
     - ComponentMiddleware
-  - ComponentMiddleware (0.0.2)
+  - ComponentMiddleware (1.0.7)
 
 DEPENDENCIES:
   - ComponentMainModuleCategory (from `../`)
 
 SPEC REPOS:
-  https://github.com/jiaojiaozhe/XAbstractionLibrary-Specs:
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
     - ComponentMiddleware
 
 EXTERNAL SOURCES:
@@ -15,9 +15,9 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ComponentMainModuleCategory: b814652d70b82b48305913d1f8614e2b141078fc
-  ComponentMiddleware: 69d1b25293355a4784aa42d9ab9e736bdda69151
+  ComponentMainModuleCategory: edc5dc7c1900e418cc842cc9e38f7fed7cbb8e3c
+  ComponentMiddleware: a85177f48b943f1fca20454a0cf44a822f32eec0
 
-PODFILE CHECKSUM: d6b83888750a3bdd9ee9edc5954c9bd4e3a6f10d
+PODFILE CHECKSUM: 69fa28233384095119123b0cdc8ad7ab853d8a01
 
 COCOAPODS: 1.9.1
